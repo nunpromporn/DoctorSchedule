@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-30T15:44:02.011Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36" etag="2utmXsTD5WbvOwgQ6xZJ" version="20.2.7" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-08-30T15:46:33.349Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36" etag="p2HuZ9GmMx6TFdlAW_gk" version="20.2.7" type="github" pages="5">
   <diagram id="d07d2UhxyD9AuNvn-Q7s" name="business">
     <mxGraphModel dx="946" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -69,13 +69,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="9AihcTbnEIvnQuchmatb-1" value="Window Title" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry width="820" height="1160" as="geometry" />
+          <mxGeometry x="10" y="10" width="820" height="730" as="geometry" />
         </mxCell>
         <mxCell id="VmsFzAdLyM-PIUdFE-_z-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userMale;strokeColor=#666666;strokeColor2=#008cff;" vertex="1" parent="1">
           <mxGeometry x="700" y="60" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="VmsFzAdLyM-PIUdFE-_z-7" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=#999999;fillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="340" y="430" width="160" height="175" as="geometry" />
+          <mxGeometry x="340" y="380" width="160" height="175" as="geometry" />
         </mxCell>
         <mxCell id="VmsFzAdLyM-PIUdFE-_z-8" value="October 2014" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontColor=#999999;" vertex="1" parent="VmsFzAdLyM-PIUdFE-_z-7">
           <mxGeometry x="30" y="8" width="100" height="20" as="geometry" />
@@ -234,40 +234,46 @@
           <mxGeometry x="50" y="108" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VmsFzAdLyM-PIUdFE-_z-60" value="Komsan Srivisut" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="1">
-          <mxGeometry x="340" y="220" width="190" height="30" as="geometry" />
+          <mxGeometry x="340" y="170" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VmsFzAdLyM-PIUdFE-_z-64" value="promporn@gmail.com" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="720" y="160" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VmsFzAdLyM-PIUdFE-_z-65" value="Doctor Name" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="220" width="80" height="30" as="geometry" />
+          <mxGeometry x="200" y="170" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VmsFzAdLyM-PIUdFE-_z-66" value="ความเชี่ยวชาญ" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="270" width="90" height="30" as="geometry" />
+          <mxGeometry x="200" y="220" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VmsFzAdLyM-PIUdFE-_z-68" value="มันจะเด้งขึ้นมาเอง" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="1">
-          <mxGeometry x="340" y="270" width="190" height="30" as="geometry" />
+          <mxGeometry x="340" y="220" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VmsFzAdLyM-PIUdFE-_z-69" value="&lt;font color=&quot;#ff6666&quot;&gt;ไม่ต้องเลือก&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="550" y="270" width="90" height="30" as="geometry" />
+          <mxGeometry x="550" y="220" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VmsFzAdLyM-PIUdFE-_z-70" value="Dentist" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="1">
-          <mxGeometry x="340" y="320" width="190" height="30" as="geometry" />
+          <mxGeometry x="340" y="270" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VmsFzAdLyM-PIUdFE-_z-71" value="Location" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="320" width="90" height="30" as="geometry" />
+          <mxGeometry x="200" y="270" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VmsFzAdLyM-PIUdFE-_z-72" value="มันจะเด้งขึ้นมาเอง" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="1">
-          <mxGeometry x="340" y="370" width="190" height="30" as="geometry" />
+          <mxGeometry x="340" y="320" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VmsFzAdLyM-PIUdFE-_z-73" value="&lt;font color=&quot;#ff6666&quot;&gt;ไม่ต้องเลือก&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="550" y="370" width="90" height="30" as="geometry" />
+          <mxGeometry x="550" y="320" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VmsFzAdLyM-PIUdFE-_z-74" value="Authorities" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="370" width="90" height="30" as="geometry" />
+          <mxGeometry x="200" y="320" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VmsFzAdLyM-PIUdFE-_z-75" value="&lt;font color=&quot;#030101&quot;&gt;Date Time range Picker&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF6666;" vertex="1" parent="1">
-          <mxGeometry x="200" y="420" width="130" height="30" as="geometry" />
+          <mxGeometry x="200" y="370" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VmsFzAdLyM-PIUdFE-_z-79" value="Submit" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="345" y="600" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VmsFzAdLyM-PIUdFE-_z-80" value="&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 21px;&quot;&gt;ตารางแพทย์มหาวิทยาลัยเทคโนโลยีสุรนารี&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="34" y="80" width="380" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
