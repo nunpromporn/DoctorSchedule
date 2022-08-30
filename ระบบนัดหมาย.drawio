@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-30T15:28:16.901Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36" etag="AHnmyMIh2apQEMZxVzOM" version="20.2.7" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-08-30T15:31:26.413Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36" etag="SLEB3-CRNI5K8pPwDRGj" version="20.2.7" type="github" pages="5">
   <diagram id="d07d2UhxyD9AuNvn-Q7s" name="business">
     <mxGraphModel dx="946" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -239,11 +239,14 @@
         <mxCell id="VmsFzAdLyM-PIUdFE-_z-62" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="350" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VmsFzAdLyM-PIUdFE-_z-63" value="wd" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" vertex="1" parent="1">
+        <mxCell id="VmsFzAdLyM-PIUdFE-_z-63" value="พรหมพร พินิจพงษ์" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" vertex="1" parent="1">
           <mxGeometry x="340" y="220" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VmsFzAdLyM-PIUdFE-_z-64" value="promporn@gmail.com" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="720" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VmsFzAdLyM-PIUdFE-_z-65" value="ชื่อ - สกุล" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="220" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
