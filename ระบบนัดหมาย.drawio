@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-03T12:23:22.957Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="YmyZV4pZu5Qvef2GALNC" version="20.2.7" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-09-03T12:23:54.267Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="la5JFEpAqAkxLK7SrmX9" version="20.2.7" type="github" pages="6">
   <diagram id="d07d2UhxyD9AuNvn-Q7s" name="business">
     <mxGraphModel dx="1186" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -64,7 +64,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="V2rBmaSBH9fNc8fx6pn5" name="UI">
-    <mxGraphModel dx="1186" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -662,7 +662,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yv5ocFJmPsoV3R1_qGyY" name="activity-2">
-    <mxGraphModel dx="1186" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1318" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -675,11 +675,17 @@
         <mxCell id="4IeiAs3MlZqTVHLIf2qA-4" value="ระบบ" style="swimlane;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="330" y="50" width="510" height="1210" as="geometry" />
         </mxCell>
-        <mxCell id="Bv0s4WzmckpB48vEgnJ4-39" value="โหลดข้อมูลสมาชิก ใส่&lt;br&gt;combobox&lt;br&gt;แล้วล็อคให้เป็น disable" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="4IeiAs3MlZqTVHLIf2qA-4" vertex="1">
-          <mxGeometry x="191" y="230" width="139" height="50" as="geometry" />
+        <mxCell id="Bv0s4WzmckpB48vEgnJ4-39" value="โหลดข้อมูลแพทย์ ใส่&lt;br&gt;combobox" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="4IeiAs3MlZqTVHLIf2qA-4" vertex="1">
+          <mxGeometry x="196.5" y="230" width="129" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Bv0s4WzmckpB48vEgnJ4-15" value="โหลดข้อมูลรายการ&lt;br&gt;ความเชี่ยวชาญของแพทย์&lt;br&gt;ใส่ combobox" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="4IeiAs3MlZqTVHLIf2qA-4" vertex="1">
-          <mxGeometry x="191" y="330" width="140" height="40" as="geometry" />
+        <mxCell id="fKu3Z804jkLJMUDopCkU-1" value="โหลดข้อมูลเจ้าหน้าที่&lt;br&gt;ใส่ combobox&lt;br&gt;แล้วล็อคให้เป็น disable" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="4IeiAs3MlZqTVHLIf2qA-4">
+          <mxGeometry x="191.5" y="300" width="139" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fKu3Z804jkLJMUDopCkU-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="4IeiAs3MlZqTVHLIf2qA-4" source="Bv0s4WzmckpB48vEgnJ4-39" target="fKu3Z804jkLJMUDopCkU-1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="270" y="240" as="targetPoint" />
+            <mxPoint x="270" y="210" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Bv0s4WzmckpB48vEgnJ4-1" value="เปิดหน้าจอ" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="150" y="200" width="120" height="40" as="geometry" />
@@ -739,16 +745,18 @@
           <mxGeometry x="520" y="190" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bv0s4WzmckpB48vEgnJ4-13" value="[no]" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Bv0s4WzmckpB48vEgnJ4-12" target="Bv0s4WzmckpB48vEgnJ4-38" edge="1">
-          <mxGeometry x="-1" relative="1" as="geometry">
+          <mxGeometry x="-0.8379" y="-20" relative="1" as="geometry">
             <mxPoint x="790" y="490" as="targetPoint" />
             <Array as="points">
               <mxPoint x="760" y="220" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Bv0s4WzmckpB48vEgnJ4-14" value="[yes]" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" parent="1" source="Bv0s4WzmckpB48vEgnJ4-12" edge="1">
-          <mxGeometry x="-1" relative="1" as="geometry">
+          <mxGeometry x="-1" y="10" relative="1" as="geometry">
             <mxPoint x="590" y="280" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Bv0s4WzmckpB48vEgnJ4-18" value="แสดงวันที่เวลาปัจจุบัน&lt;br&gt;ใน datetime range picker" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
@@ -831,7 +839,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Bv0s4WzmckpB48vEgnJ4-34" value="โหลดข้อมูลรายการ&lt;br&gt;เจ้าหน้าที่&lt;br&gt;ใส่ combobox" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
+        <mxCell id="Bv0s4WzmckpB48vEgnJ4-34" value="โหลดข้อมูล&lt;br&gt;เจ้าหน้าที่&lt;br&gt;ใส่ combobox" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="521" y="490" width="137" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Bv0s4WzmckpB48vEgnJ4-35" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" parent="1" source="Bv0s4WzmckpB48vEgnJ4-34" edge="1">
