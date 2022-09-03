@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-03T12:58:31.191Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="CoOYot0zvxR1szkc_Ga6" version="20.2.7" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-09-03T12:58:45.596Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="K9E1qPGTgdGErzGFZvAs" version="20.2.7" type="github" pages="6">
   <diagram id="d07d2UhxyD9AuNvn-Q7s" name="business">
     <mxGraphModel dx="1186" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -741,7 +741,7 @@
         <mxCell id="Bv0s4WzmckpB48vEgnJ4-23" value="ค้นหา entity Doctor Specialist ด้วย id ของ&lt;br&gt;Specialist ที่รับเข้ามา" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="4IeiAs3MlZqTVHLIf2qA-4" vertex="1">
           <mxGeometry x="95" y="750" width="231" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Bv0s4WzmckpB48vEgnJ4-21" value="ค้นหา entity Doctor_Name ด้วย id ของ name ที่รับเข้ามา" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="4IeiAs3MlZqTVHLIf2qA-4" vertex="1">
+        <mxCell id="Bv0s4WzmckpB48vEgnJ4-21" value="ค้นหา entity Doctor_Name ด้วย id ของ Doctor_name ที่รับเข้ามา" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="4IeiAs3MlZqTVHLIf2qA-4" vertex="1">
           <mxGeometry x="97" y="690" width="225" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Bv0s4WzmckpB48vEgnJ4-1" value="เปิดหน้าจอ" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
