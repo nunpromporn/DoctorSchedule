@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-03T13:08:19.212Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="Bjxu9CfMmtC347gDCyck" version="20.2.7" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-09-03T13:09:44.514Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="wIXqJcUYLlMsuFpI0x4e" version="20.2.7" type="github" pages="6">
   <diagram id="d07d2UhxyD9AuNvn-Q7s" name="business">
     <mxGraphModel dx="1186" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -341,7 +341,7 @@
         <mxCell id="dZDWxKGCdLtsqVaeqa4z-6" value="Officer" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="120" y="110" width="116" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="dZDWxKGCdLtsqVaeqa4z-7" value="Doctor schedule" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="dZDWxKGCdLtsqVaeqa4z-7" value="Doctor_schedule" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="120" y="310" width="116" height="110" as="geometry" />
         </mxCell>
         <mxCell id="dZDWxKGCdLtsqVaeqa4z-8" value="" style="endArrow=none;endFill=1;endSize=12;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="dZDWxKGCdLtsqVaeqa4z-7" target="dZDWxKGCdLtsqVaeqa4z-4" edge="1">
@@ -744,7 +744,7 @@
             <mxPoint x="210" y="990" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Bv0s4WzmckpB48vEgnJ4-27" value="ค้นหา entity Authorities ด้วย id ที่รับเข้ามา" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="4IeiAs3MlZqTVHLIf2qA-4" vertex="1">
+        <mxCell id="Bv0s4WzmckpB48vEgnJ4-27" value="สร้างข้อมูล entity&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="4IeiAs3MlZqTVHLIf2qA-4" vertex="1">
           <mxGeometry x="140" y="930" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Bv0s4WzmckpB48vEgnJ4-25" value="ค้นหา entity Location ด้วย id ของ location ที่รับเข้ามา" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="4IeiAs3MlZqTVHLIf2qA-4" vertex="1">
