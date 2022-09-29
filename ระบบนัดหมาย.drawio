@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-29T11:54:42.131Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="E9vGOJOqsT8KblRayis6" version="20.3.7" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-09-29T12:08:49.671Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="yxf3g6AYB9GBvKEfCGj2" version="20.3.7" type="github" pages="9">
   <diagram id="d07d2UhxyD9AuNvn-Q7s" name="business">
     <mxGraphModel dx="971" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1132,7 +1132,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7sJC6fhJVwjS0kkcNQ__" name="Classdiagram">
-    <mxGraphModel dx="943" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="731" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1324,10 +1324,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TP9aFJx0pC1_zzASXXOf" name="communication">
-    <mxGraphModel dx="1329" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1942" dy="856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="w9cCuMyt1KOWPAanQS14-2" value="Communication Diagram ระบบย่อย ระบบตารางการทำงานของแพทย์" style="shape=umlFrame;whiteSpace=wrap;html=1;fontSize=12;width=380;height=30;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="1010" height="640" as="geometry" />
+        </mxCell>
         <mxCell id="1rM6y6wxvSmANxiX8bVf-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="1rM6y6wxvSmANxiX8bVf-39" target="1rM6y6wxvSmANxiX8bVf-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
