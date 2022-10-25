@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-25T13:58:13.981Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="jeSYEk5l8urGyQfvmvoj" version="20.5.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-10-25T13:59:12.281Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="TkEO0HZGtcCORNj49Rci" version="20.5.1" type="github" pages="10">
   <diagram id="d07d2UhxyD9AuNvn-Q7s" name="business">
     <mxGraphModel dx="731" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1589,7 +1589,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1rM6y6wxvSmANxiX8bVf-48" value=":Doctor" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="570" y="640" width="80" height="80" as="geometry" />
+          <mxGeometry x="590" y="650" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1rM6y6wxvSmANxiX8bVf-49" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="1rM6y6wxvSmANxiX8bVf-50" target="1rM6y6wxvSmANxiX8bVf-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1686,7 +1686,7 @@
         </mxCell>
         <mxCell id="lgyA9B0kij3lx5bWLqa5-1" value="5: ดึงข้อมูลทั้งหมด" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1rM6y6wxvSmANxiX8bVf-65" vertex="1" connectable="0">
           <mxGeometry x="0.1804" y="-1" relative="1" as="geometry">
-            <mxPoint x="-86" y="88" as="offset" />
+            <mxPoint x="-83" y="88" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hdVoxfZ5TGYf0y2mbv_9-3" value="6: ดึงข้อมูลทั้งหมด" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1rM6y6wxvSmANxiX8bVf-65">
@@ -1713,7 +1713,7 @@
         </mxCell>
         <mxCell id="D1DdbTkpM3m_KwFLKxmj-2" value="11: ค้นหาด้วยไอดี(d_id)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1rM6y6wxvSmANxiX8bVf-67">
           <mxGeometry x="0.1804" y="-1" relative="1" as="geometry">
-            <mxPoint x="-240" y="102" as="offset" />
+            <mxPoint x="-210" y="112" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1rM6y6wxvSmANxiX8bVf-69" value="" style="endArrow=block;html=1;rounded=0;endFill=1;" parent="1" edge="1">
@@ -1750,14 +1750,14 @@
         </mxCell>
         <mxCell id="pkl1dzQDERL9iWM0dst2-7" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="650" y="519" as="sourcePoint" />
-            <mxPoint x="630" y="630" as="targetPoint" />
+            <mxPoint x="660" y="518" as="sourcePoint" />
+            <mxPoint x="650" y="629" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pkl1dzQDERL9iWM0dst2-8" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="670" y="380" as="sourcePoint" />
-            <mxPoint x="650" y="490" as="targetPoint" />
+            <mxPoint x="660" y="489" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1L8bpTeWJqs9W6KJZCGI-4" value="" style="endArrow=none;html=1;rounded=0;endFill=0;startArrow=block;startFill=1;" parent="1" edge="1">
