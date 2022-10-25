@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-25T15:58:16.660Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="neOK-uDA4o6Sc_UykDFP" version="20.5.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-10-25T16:39:47.169Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="xt4uDdL7O-NQrcR9T2Mx" version="20.5.1" type="github" pages="10">
   <diagram id="d07d2UhxyD9AuNvn-Q7s" name="business">
     <mxGraphModel dx="971" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -821,7 +821,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yv5ocFJmPsoV3R1_qGyY" name="activity-2">
-    <mxGraphModel dx="747" dy="1429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4734" dy="2812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -873,7 +873,7 @@
           <mxGeometry x="136.5" y="1070" width="293.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="eJHIpgEWFHlf1ZerwG8H-15" value="ค้นหา entity Location ด้วย id ของ location ที่รับเข้ามา" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="eJHIpgEWFHlf1ZerwG8H-2" vertex="1">
-          <mxGeometry x="126" y="920" width="290" height="40" as="geometry" />
+          <mxGeometry x="126" y="930" width="290" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eJHIpgEWFHlf1ZerwG8H-16" value="ค้นหา entity Doctor ด้วย id ของ doctor ที่รับเข้ามา" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="eJHIpgEWFHlf1ZerwG8H-2" vertex="1">
           <mxGeometry x="131" y="780" width="260" height="40" as="geometry" />
@@ -983,10 +983,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="r4q2sUevj1kKQ4MYI-jg-17" value="ค้นหา entity Room ด้วย id ของ room ที่รับเข้ามา" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="eJHIpgEWFHlf1ZerwG8H-2">
-          <mxGeometry x="143.5" y="988" width="270" height="40" as="geometry" />
+          <mxGeometry x="140" y="1000" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r4q2sUevj1kKQ4MYI-jg-19" value="ค้นหา entity Department ด้วย id ของ department ที่รับเข้ามา" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="eJHIpgEWFHlf1ZerwG8H-2">
-          <mxGeometry x="116" y="850" width="310" height="40" as="geometry" />
+          <mxGeometry x="120" y="850" width="310" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eJHIpgEWFHlf1ZerwG8H-36" value="โหลดข้อมูลสมาชิก&lt;br&gt;ระบบที่กำลังใช้งาน" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="eJHIpgEWFHlf1ZerwG8H-2" vertex="1">
           <mxGeometry x="201" y="40" width="120" height="40" as="geometry" />
@@ -1003,6 +1003,35 @@
             <Array as="points">
               <mxPoint x="271" y="580" />
               <mxPoint x="271" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b6mCH-fiLyLuHEEqRdwX-5" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;fontSize=15;fontColor=#006600;sourcePerimeterSpacing=16;targetPerimeterSpacing=16;" edge="1" parent="eJHIpgEWFHlf1ZerwG8H-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="930" as="targetPoint" />
+            <mxPoint x="270.40999999999997" y="890" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="270" y="910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b6mCH-fiLyLuHEEqRdwX-6" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;fontSize=15;fontColor=#006600;sourcePerimeterSpacing=16;targetPerimeterSpacing=16;" edge="1" parent="eJHIpgEWFHlf1ZerwG8H-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="1000" as="targetPoint" />
+            <mxPoint x="270.71000000000004" y="970" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="271" y="985" />
+              <mxPoint x="270" y="985" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b6mCH-fiLyLuHEEqRdwX-8" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;fontSize=15;fontColor=#006600;sourcePerimeterSpacing=16;targetPerimeterSpacing=16;" edge="1" parent="eJHIpgEWFHlf1ZerwG8H-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="1070" as="targetPoint" />
+            <mxPoint x="270.71000000000004" y="1040" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="271" y="1055" />
+              <mxPoint x="270" y="1055" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1042,9 +1071,6 @@
         </mxCell>
         <mxCell id="eJHIpgEWFHlf1ZerwG8H-54" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="eJHIpgEWFHlf1ZerwG8H-23" vertex="1">
           <mxGeometry x="160" y="1440" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="eJHIpgEWFHlf1ZerwG8H-1" value="ระบบย่อย : ระบบตารางการทำงานของแพทย์" style="shape=umlFrame;whiteSpace=wrap;html=1;width=250;height=25;" parent="1" vertex="1">
-          <mxGeometry x="1620" y="-850" width="870" height="1360" as="geometry" />
         </mxCell>
         <mxCell id="eJHIpgEWFHlf1ZerwG8H-28" value="เปิดหน้าจอ" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="150" y="-900" width="120" height="40" as="geometry" />
@@ -1134,6 +1160,9 @@
               <mxPoint x="430" y="-799" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="eJHIpgEWFHlf1ZerwG8H-1" value="ระบบย่อย : ระบบตารางการทำงานของแพทย์" style="shape=umlFrame;whiteSpace=wrap;html=1;width=250;height=25;" parent="1" vertex="1">
+          <mxGeometry x="-20" y="-1070" width="970" height="1770" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -1324,7 +1353,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7sJC6fhJVwjS0kkcNQ__" name="Classdiagram">
-    <mxGraphModel dx="925" dy="408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1022" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
